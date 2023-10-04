@@ -29,3 +29,6 @@ The correct answers in the model are:
 - German - Berlin
 - Azerbaijan - Baku
 - Papa New Guinea - Port Moresby
+
+<img width="1450" alt="Screenshot 2023-09-21 at 10 10 23 PM" src="https://github.com/roopaljasnani/Country-Capital-Matcher/assets/89003845/5e95253f-d3da-428c-b9ed-1e829f30f303">
+<img width="1076" alt="Screenshot 2023-09-21 at 10 58 43 PM" src="https://github.com/roopaljasnani/Country-Capital-Matcher/assets/89003845/84cf5b5d-8078-4e43-830d-908586199a5a">
